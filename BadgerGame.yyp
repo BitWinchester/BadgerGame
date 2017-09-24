@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "3d1a588b-b72b-44b7-800c-8884956ca281",
+            "Value": {
+                "id": "827a828e-9593-4613-906f-a21957b4cb8f",
+                "resourcePath": "sprites\\spr_blueBox\\spr_blueBox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "40559ea9-9913-4a0b-90f2-70dfcb671e7b",
             "Value": {
                 "id": "0be39ce8-6dad-4dbe-87db-27ad9faa0e11",
