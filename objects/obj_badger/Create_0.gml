@@ -9,3 +9,4 @@
 
 sweetNewVariable = true;
 thisisBad = 100;
+iWantToKeep = 50;
