@@ -7,10 +7,6 @@
 
 //This is sweet new bager code
 
-<<<<<<< HEAD
 sweetNewVariable = true;
 thisisBad = 100;
 iWantToKeep = 50;
-=======
-sweetNewVariable = true;
->>>>>>> parent of ccb8f7d... Added this is bad as a variable
