@@ -11,5 +11,3 @@ sweetNewVariable = true;
 thisisBad = 100;
 iWantToKeep = 50;
 thisnewvariableisbad = 25;
-xxx = 500;
-yyy = 600;
