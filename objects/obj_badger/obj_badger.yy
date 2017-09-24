@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_badger",
     "eventList": [
-        
+        {
+            "id": "acffbe89-dfd0-4836-b1bb-4cc339b3e71d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "48f0b9e9-741b-4281-901f-9036c59dad05"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
