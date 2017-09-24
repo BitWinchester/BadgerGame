@@ -8,3 +8,4 @@
 //This is sweet new bager code
 
 sweetNewVariable = true;
+thisisBad = 100;
